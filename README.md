@@ -1,0 +1,2 @@
+# ArduinoNXProconLibrary
+ArduinoをNintendo Switch Pro Controllerと認識させゲームを自動化するArduino用のライブラリです。
